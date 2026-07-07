@@ -1,5 +1,0 @@
-flask>=3.0
-requests>=2.31
-wxPython>=4.2
-Pillow>=10.0
-pyperclip>=1.8
